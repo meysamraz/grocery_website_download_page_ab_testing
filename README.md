@@ -24,8 +24,8 @@ One of the goals of the company discussed here is to get more users to download 
  - ### <font color='#f77f00'> What's our unit of analysis </font> 
     - IP Address: Client's IP Address 
 
- - ### <font color='#f77f00'>  What's our unit of analysis ?  </font> 
-   - IP Address: Client's IP Address
+ - ### <font color='#f77f00'>  What's our metric to measure success here </font> 
+   - Number clicked in download  
    
 - ### <font color='#f77f00'> The size of our treatment and control groups </font> 
   - 1/3 of the treatment units and 
