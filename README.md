@@ -5,7 +5,7 @@
 
 One of the goals of the company discussed here is to get more users to download the mobile app and sign up for the customer loyalty program.
 
-<p><img src="Screenshot.png" alt=""></p>
+<p><img src="src/demo.png" alt=""></p>
 
 ##### The company is making a link change to a button in the app store and asking if clickthrough rates will increase for the app download page?
 
