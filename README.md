@@ -9,7 +9,7 @@ One of the goals of the company discussed here is to get more users to download 
 
 ##### The company is making a link change to a button in the app store and asking if clickthrough rates will increase for the app download page?
 
-## <font color='#d62828'>1- Explain methodology step-by-step foo :</font>
+## <font color='#d62828'>1- Explain methodology step-by-step :</font>
 
  - ###  <font color='#f77f00'>What data do we have ?</font>
 
