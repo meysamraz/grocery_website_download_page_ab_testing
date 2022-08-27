@@ -38,3 +38,12 @@ One of the goals of the company discussed here is to get more users to download 
       - Check Normality & Homogeneity
       - Apply tests (Shapiro, Levene Test, T-Test, Welch Test, Mann Whitney U Test)
       - Evaluate the results
+      
+ 
+ ### Libraries and Packages : 
+ 
+ - [matplotlib](https://matplotlib.org/)
+ - [seaborn](https://seaborn.pydata.org/#:~:text=Seaborn%20is%20a%20Python%20data,introductory%20notes%20or%20the%20paper.)
+ - [pandas](https://pandas.pydata.org/)
+ - [numpy](https://numpy.org/)
+ - [scipy](https://scipy.org/)      
